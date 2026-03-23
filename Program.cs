@@ -8,6 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
+            //komentar opis promjene 2026
         }
 
     }
