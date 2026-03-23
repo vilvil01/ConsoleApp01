@@ -8,5 +8,6 @@ namespace ConsoleApp01
 {
     internal class NewClass
     {
+        //konflikt 1
     }
 }
